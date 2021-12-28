@@ -1,0 +1,28 @@
+.link{
+    text-decoration: none;
+    text-decoration-style: none;
+}
+body{
+   margin-left: 16%;
+   margin-right: 15%; 
+   font-size: 20px;
+   font-weight: 500;
+   background-image: url(https://assets.t3n.sc/news/wp-content/uploads/2017/11/bitcoin-kurs.jpg?auto=format&h=&ixlib=php-2.3.0&w=);
+   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#middle{
+padding-left: 30px;
+padding-right: 30px;
+padding-top: 10px;
+padding-bottom: 20px;
+    border-radius: 50px;
+    background-color: whitesmoke;
+}
+#chart{
+    width:100%;
+}
+.coinbase{
+    width: 80px;
+    z-index: -1;
+}
